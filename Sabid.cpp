@@ -1,2 +1,5 @@
-print("hey")
-print("second")
+#include <iostream>
+
+int main(){
+    cout << "man's not hot";
+}
